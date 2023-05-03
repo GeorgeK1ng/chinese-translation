@@ -1,0 +1,26 @@
+{
+	"name" : "Chinese Translation",
+	"description" : "Translate Game to Chinese",
+	"version" : "1.0",
+	"author" : "YueR",
+	"contact" : "Wechat ID:lishaoxia1985",
+	"language" : "chinese",
+	"modType" : "Translation",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"chinese" : {
+		"name" : "中文翻译",
+		"description" : "将游戏翻译成中文"	
+	},
+	"translations" : [
+		"config/vcmi-chinese/game.json",
+		"config/vcmi-chinese/maps.json",
+		"config/vcmi-chinese/campaigns.json"
+	]
+}
