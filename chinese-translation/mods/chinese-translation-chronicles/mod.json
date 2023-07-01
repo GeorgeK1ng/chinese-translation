@@ -1,0 +1,25 @@
+{	
+	"name" : "Chronicles (chinese)",
+	"description" : "Chinese translation of Heroes Chronicles. Requires the chronicles mod or the chronicles h3c files in the maps folder. Rename to: c1-underworld.h3c   c2-elements.h3c   c3-dragon.h3c   c4-wasteland.h3c   c5-tree.h3c   c6-moon.h3c   c7-beastmasters.h3c   c8-frost.h3c",
+	"version" : "1.0.0",
+	"author" : "",
+	"contact" : "https://github.com/vcmi-mods/chinese-translation",
+	"modType" : "Translation",
+	"language" : "chinese",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"chinese" : {
+		"name" : "编年史（中文)",
+		"description" : "英雄编年史》的中文翻译。需要Chronicles mod或地图文件夹中的Chronicles h3c文件。重命名为： c1-underworld.h3c   c2-elements.h3c   c3-dragon.h3c   c4-wasteland.h3c   c5-tree.h3c   c6-moon.h3c   c7-beastmasters.h3c   c8-frost.h3c"	
+	},
+	"translations" : [
+		"config/vcmi-chinese-chronicles/campaigns.json"
+	]
+}
