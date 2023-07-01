@@ -15,6 +15,10 @@
 		"1.0.1" : [ "SoD Main menu buttons + chronicles from https://forum.vcmi.eu/t/simplified-chinese-translation/5672" ],
 		"1.0.0" : [ "Initial release" ]
 	},
+	"german" : {
+		"name" : "Chinesische Übersetzung",
+		"description" : "Chinesische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+	},
 	"chinese" : {
 		"name" : "中文翻译",
 		"description" : "英雄无敌III：完整版》中译本"	
