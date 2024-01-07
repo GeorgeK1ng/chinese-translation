@@ -1,7 +1,7 @@
 {
 	"name" : "Chinese translation",
 	"description" : "Chinese translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.2",
+	"version" : "1.0.3",
 	"author" : "YueR",
 	"contact" : "Wechat ID:lishaoxia1985",
 	"language" : "chinese",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.3" : [ "Little fixes" ],
 		"1.0.2" : [ "png images" ],
 		"1.0.1" : [ "SoD Main menu buttons + chronicles from https://forum.vcmi.eu/t/simplified-chinese-translation/5672" ],
 		"1.0.0" : [ "Initial release" ]
