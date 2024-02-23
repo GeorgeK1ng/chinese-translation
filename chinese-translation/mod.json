@@ -23,7 +23,7 @@
 	},
 	"chinese" : {
 		"name" : "中文翻译",
-		"description" : "英雄无敌III：完整版》中译本"	
+		"description" : "《英雄无敌III：完整版》汉化版"	
 	},
 	"translations" : [
 		"config/vcmi-chinese/game.json",
