@@ -1,6 +1,6 @@
 {
 	"name" : "Chinese translation",
-	"description" : "Chinese translation of Heroes of Might and Magic III: Complete Edition",
+	"description" : "来自《魔法门之英雄无敌III：完整版》（Heroes of Might and Magic III: Complete）的中文翻译。",
 	"version" : "1.0.3",
 	"author" : "YueR",
 	"contact" : "Wechat ID:lishaoxia1985",
@@ -23,7 +23,7 @@
 	},
 	"chinese" : {
 		"name" : "中文翻译",
-		"description" : "《英雄无敌III：完整版》汉化版"	
+		"description" : "来自《魔法门之英雄无敌III：完整版》（Heroes of Might and Magic III: Complete）的中文翻译。"	
 	},
 	"translations" : [
 		"config/vcmi-chinese/game.json",
