@@ -5,9 +5,9 @@
 	"bitmap" :
 	[
 		"BIGFONT",  // Mostly used for window titles
-		"CALLI10R", // Unused in VCMI
+		"CALLI10R", // Used when you view the map by the spell such as 'View Earth' 
 		"CREDITS",  // Used for credits menu
-		"HISCORE",  // Unused in VCMI
+		"HISCORE",  // Used when you win the scenario and get a score
 		"MEDFONT",  // Some titles
 		"SMALFONT", // Most of the messages
 		"TIMES08R", // Used to display amounts on creature card 
@@ -24,15 +24,14 @@
 	// "blend" - if set to true, font will be antialiased
 	"trueType":
 	{
-		// 3 fonts are disabled since they're unused in vcmi
 		"BIGFONT"  : { "file" : "SIMLI.ttf", "size" : 22, "blend" : true},
-		//"CALLI10R" : { "file" : "unifont.ttf",       "size" : 10},
-		"CREDITS"  : { "file" : "creditUse.ttf", "size" : 28},
-		//"HISCORE"  : { "file" : "LiberationSerif-Bold.ttf",       "size" : 13},
-		"MEDFONT"  : { "file" : "WenQuanYi.ttf", "size" : 16}, // breaks messages (from map events)
-		"SMALFONT" : { "file" : "WenQuanYi.ttf",       "size" : 13, "blend" : true},
+		"CALLI10R" : { "file" : "SIMLI.ttf", "size" : 18, "blend" : true},
+		"CREDITS"  : { "file" : "WenQuanYi.ttf", "shadow" : true, "size" : 28, "blend" : true},
+		"HISCORE"  : { "file" : "SIMLI.ttf", "shadow" : true, "size" : 22, "blend" : true},
+		"MEDFONT"  : { "file" : "WenQuanYi.ttf", "size" : 16, "blend" : true}, // breaks messages (from map events)
+		"SMALFONT" : { "file" : "WenQuanYi.ttf", "size" : 13, "blend" : true},
 		"TIMES08R" : { "file" : "WenQuanYi.ttf", "size" :  9, "blend" : true},
-		"TINY"     : { "file" : "WenQuanYi.ttf",       "size" : 9, "blend" : true},
-		//"VERD10B"  : { "file" : "LiberationSerif-Regular.ttf",       "size" : 13}
+		"TINY"     : { "file" : "WenQuanYi.ttf", "size" : 9, "blend" : true},
+		"VERD10B"  : { "file" : "WenQuanYi.ttf", "size" : 13, "blend" : true}
 	}
 }
