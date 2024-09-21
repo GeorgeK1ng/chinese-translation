@@ -1,6 +1,6 @@
 {	
 	"name" : "Chronicles (chinese)",
-	"description" : "Chinese translation of Heroes Chronicles. Requires the chronicles mod or the chronicles h3c files in the maps folder. Rename to: c1-underworld.h3c   c2-elements.h3c   c3-dragon.h3c   c4-wasteland.h3c   c5-tree.h3c   c6-moon.h3c   c7-beastmasters.h3c   c8-frost.h3c",
+	"description" : "Chinese translation of Heroes Chronicles. Before using this mod please confirm that you have created the mod 'Heroes Chronicles' via 'Heroes Chronicles: All Chapters' GOG installer.",
 	"version" : "1.0.0",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/chinese-translation",
@@ -8,7 +8,7 @@
 	"language" : "chinese",
 	"compatibility" :
 	{
-		"min" : "1.2.0"
+		"min" : "1.6.0"
 	},
 	"keepDisabled" : true,
 	"changelog" : 
@@ -16,8 +16,8 @@
 		"1.0.0" : [ "Initial release" ]
 	},
 	"chinese" : {
-		"name" : "编年史（中文)",
-		"description" : "英雄编年史》的中文翻译。需要Chronicles mod或地图文件夹中的Chronicles h3c文件。重命名为： c1-underworld.h3c   c2-elements.h3c   c3-dragon.h3c   c4-wasteland.h3c   c5-tree.h3c   c6-moon.h3c   c7-beastmasters.h3c   c8-frost.h3c"	
+		"name" : "英雄无敌历代记（中文)",
+		"description" : "《英雄无敌历代记》的中文翻译。使用该模组前请确认您已经通过“Heroes Chronicles: All Chapters”的GOG installer创建了“Heroes Chronicles”模组。"	
 	},
 	"translations" : [
 		"config/vcmi-chinese-chronicles/campaigns.json"
